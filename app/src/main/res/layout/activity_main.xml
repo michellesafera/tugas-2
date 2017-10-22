@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="8dp"
+    android:paddingLeft="20dp"
+    android:paddingRight="8dp"
+    android:paddingTop="20dp"
+    android:background="#41a9ff"
+    tools:context="com.example.michelle.kodeweb.MainActivity">
+
+    <TextView
+        android:id="@+id/enterUrl"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:text="WEBSITE CODE VIEWER"
+        android:textColor="#fcfcfc"
+        android:shadowColor="#969696"
+        android:textStyle="bold"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_centerInParent="true"
+        android:textSize="28sp" />
+
+    <LinearLayout
+        android:orientation="horizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/spinner"
+        android:layout_below="@+id/enterUrl"
+        android:paddingTop="20dp"
+        android:layout_alignRight="@+id/spinner"
+        android:layout_alignEnd="@+id/spinner"
+        android:id="@+id/linearLayout">
+
+        <EditText
+            android:id="@+id/edit_url"
+            android:layout_width="0dp"
+            android:layout_marginTop="10dp"
+            android:layout_height="wrap_content"
+            android:inputType="textUri"
+            android:imeOptions="actionGo" />
+
+        <Spinner
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/spinner"
+            android:layout_marginTop="5dp"
+            android:backgroundTintMode="multiply"
+            android:backgroundTint="#0e6efd"
+            android:spinnerMode="dropdown"
+            android:layout_below="@+id/enterUrl"
+            android:layout_centerHorizontal="true" />
+
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/web"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="textUri"
+        android:imeOptions="actionGo"
+        android:layout_below="@+id/linearLayout"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Get Source Code"
+        android:layout_marginTop="10dp"
+        android:id="@+id/btnGet"
+        android:onClick="onClick"
+        android:background="#352efc"
+        android:backgroundTint="#1446fc"
+        android:backgroundTintMode="screen"
+        android:textColor="#ffffff"
+        android:textSize="18sp"
+        android:layout_below="@+id/web"
+        android:layout_centerHorizontal="true" />
+
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:layout_below="@+id/btnGet"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="20dp"
+                android:textColor="#e6ff00"
+                android:text="source code"
+                android:id="@+id/textView" />
+            <ProgressBar
+                android:id="@+id/load"
+                android:layout_width="50dp"
+                android:layout_height="50dp"
+                android:layout_gravity="center"/>
+        </FrameLayout>
+    </ScrollView>
+
+
+</RelativeLayout>

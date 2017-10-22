@@ -1,0 +1,7 @@
+#Sun Oct 22 17:25:29 ICT 2017
+base.0=E\:\\kuliah\\mobile\\KodeWeb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7beab610d255af517c659e857022381b04791731
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=E\:\\kuliah\\mobile\\KodeWeb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27d40789beee436bd86333ca4e121925d978be83\\classes.dex
+base.1=E\:\\kuliah\\mobile\\KodeWeb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_27d40789beee436bd86333ca4e121925d978be83
+file.0=E\:\\kuliah\\mobile\\KodeWeb\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_7beab610d255af517c659e857022381b04791731\\classes.dex

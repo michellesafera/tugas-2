@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="E:\kuliah\mobile\KodeWeb\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_27d40789beee436bd86333ca4e121925d978be83\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\d572b6bc684d703781be0989c1dac079547e1e25\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_5c5fa800d7cd7f119726d63b20b74ea77d12508a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\5332d7c4bf9759ac4e6c704333fdb64f8e919d58\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_7cfc99b9ff23e0d9523613bd9690f1bb0032f06a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\AppData\Local\Android\sdk\extras\m2repository\com\android\support\constraint\constraint-layout-solver\1.0.2\constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\constraint-layout-solver-1.0.2_bf3bd330480227c0d9c9543572b27bcf5c2bf1ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\bc2f5ca66b3b917a14359501c8e59243026ec501\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_47fd6e5874cfcfea96f2ecc08c98ebd84e449093.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\58ea7d2c1c2e238515342f4b87c6bdc85c00cc35\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_bbfb106cbd3ca18d8f0d8a02a261876e536d0916.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="E:\kuliah\mobile\KodeWeb\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cb7d9bee4eca23ef42e63ad6e1509fc65a9205d5">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_7beab610d255af517c659e857022381b04791731\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\ec537618fa3444c447b54fe34d9ac07330192093\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_b6b984e1d6fabf3559a0bd3c26d8c41fb999acc4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\26.0.0-alpha1\support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\support-annotations-26.0.0-alpha1_49f69a875317f0b775b10a2b314d9b935ed371b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\f09d72ab70284b881dcf3ce489bfffae031300df\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_3ad91d016ea2ea4928d6ca2c2bfde9f1c8742876.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\87f5a55591d508f03d1addbde8bb51a4d9cc272a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_17054b39ab3d40d1b063e4a6f39691aa12334c6c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\1b16d5501ed190fdd4a78876b981916f135f2c1a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_a685781a9b66f800ad04ab0deac119dd19b4e219.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\a852c54a52dcf08b28aa9dde67fc4630f368ae40\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_99d994a8dfffb419ee791c01f2a5b4ac2cb6df14.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Michelle\.android\build-cache\d8c69d4b1165c43f33b2d518c6905eb427ef85e2\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="E:\kuliah\mobile\KodeWeb\app\build\intermediates\pre-dexed\debug\classes_c9fe4311238976182d2ba5b3a76b429afcbd6978.jar" />
+    </item>
+
+</items>

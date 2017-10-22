@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">KodeWeb</string>
+    <string-array name="sp_name">
+        <item>
+            http://
+        </item>
+
+        <item>
+            https://
+        </item>
+    </string-array>
+</resources>
